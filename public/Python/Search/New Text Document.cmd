@@ -1,0 +1,1 @@
+python search.py --index index.csv --query ../../product-images/queries/108100.png --result-path ../../product-images/dataset
